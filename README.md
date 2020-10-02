@@ -2,6 +2,7 @@ Traffic Predictions with Uber Ride Data
 =======================================
 Swapnil Lad, Minrui Liang, Dean Long, Sayuj Shajith, Arnold Wang
 ----------------------------------------------------------------
+Accompanying video presentation: https://web.microsoftstream.com/video/39cbb826-8d85-47f2-b95c-45ec666d6a8f
 
 **Introduction**
 Many problems of urban transportation begin and end with traffic. Traffic is responsible for increased pollution and increased wait times, and unpredictable traffic can cause complications in personal matters. The ability to accurately predict when traffic will flare up can increase the reliability of trip time estimates, reducing some of the societal friction incurred in-transit by urban and suburban road travelers. 
